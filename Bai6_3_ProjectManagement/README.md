@@ -1,7 +1,7 @@
 # BÁO CÁO BÀI TẬP 6.3: HỆ THỐNG QUẢN LÝ CÔNG VIỆC & TIẾN ĐỘ DỰ ÁN (PROJECT & TASK MANAGEMENT)
 
 ## MỤC 1: THÔNG TIN SINH VIÊN
-- **Họ và tên sinh viên:** Phan Công Thành Đạt
+- **Họ và tên sinh viên:** Phạm Hữu Hưng
 - **Mã sinh viên:** 24810310223
 - **Lớp :** D19CNPM3
 
