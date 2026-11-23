@@ -1,8 +1,8 @@
 # BÁO CÁO BÀI TẬP 6.4: HỆ THỐNG QUẢN LÝ GARAGE VÀ BẢO BƯỠNG XE Ô TÔ (GARAGE MANAGEMENT SYSTEM)
 
 ## MỤC 1: THÔNG TIN SINH VIÊN
-- **Họ và tên sinh viên:** Phan Công Thành Đạt
-- **Mã sinh viên:** 24810310223
+- **Họ và tên sinh viên:** Phạm Hữu Hưng
+- **Mã sinh viên:** 24810310239
 - **Lớp :** D19CNPM3
 
 ---
