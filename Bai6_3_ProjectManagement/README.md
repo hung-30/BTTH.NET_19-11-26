@@ -2,7 +2,7 @@
 
 ## MỤC 1: THÔNG TIN SINH VIÊN
 - **Họ và tên sinh viên:** Phạm Hữu Hưng
-- **Mã sinh viên:** 24810310223
+- **Mã sinh viên:** 24810310239
 - **Lớp :** D19CNPM3
 
 ---
